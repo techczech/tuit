@@ -1,0 +1,572 @@
+a	L1				and
+ahoj	L1				hi
+ale	L1				but
+alespoò	L7				at least
+Amerièan	L1	ten	a		American (man)
+ano	L1				yes
+a	L9				"when, as far as, as soon as"
+babièka	L6	ta	y		grandmother
+balíèek	L5	ten	u		packet
+banán	L2	ten	u		banana
+banka	L5	ta	y		bank
+bát se	L4	imp		*bojí se	to be afraid
+bavit se	L9	imp		...í se	"to enjoy, have a good time"
+bavlna	L10	ta	y		cotton
+"bavlnìnı,-á,-é"	L10				cotton
+bazén	L5	ten	u		swimming pool
+bìhat	L4	imp		…á	"to run, jog"
+bez	L5				without
+bezmasá jídla	L3		a		vegetarian meals
+bìet	L4	imp		…í	to run
+"bílı,-á,-é"	L10				white
+biologie	L4	ta	e		biology
+blesk	L7	ten	u		lightning
+blízko	L5				near
+blíit se	L8	imp		…í	to come close/near
+blùza	L10	ta	y		blouse
+bohuel	L3				unfortunately
+bolet	L9	imp		...í	"to ache, pain"
+boty	L10	ty	pl.		shoes
+bouøka	L7	ta	y		storm
+"bramborovı,-á,-é"	L3				potato (as in potato salad)
+brát	L9	imp		*bere	to take
+bratr	L6	ten	a		brother
+brokolice	L2	ta	e		broccoli
+brıle	L10	ty	pl.		glasses
+brzo	L4				early
+bøezen	L8	ten	a		March
+bøicho	L9	to	a		stomach
+bublinky	L3	ty	pl.		bubbles
+bunda	L10	ta	y		sports jacket
+bydlet	L4	imp		…í	to live
+bıt	L1	imp		*je	to be
+"celı,-á,-é"	L8				"whole, all"
+cestovat	L7	imp		…uje	travel
+cestovní kanceláø	L8		e		travel agency
+cibule	L2	ta	e		onion
+cítit se	L9	imp		…í	to feel
+citrón	L2	ten	u		lemon
+co	L2				what
+cvièení	L7	to	í		exercise
+cvièit	L5	imp		…í	"to exercise, practice"
+èaj	L2	ten	e		tea
+èasto	L7				"often, frequently"
+Èech	L1	ten	a		Czech (man)
+èekat	L3	imp		..á	wait
+"èernı,-á,-é"	L10				black
+"èerstvı,-á,-é"	L2				fresh
+èerven	L8	ten	a		June
+èervenec	L8	ten	e		July
+"èervenı,-á,-é"	L2				red
+èesnek	L2	ten	u		garlic
+Èeši	L1	ti	pl.		Czechs (nation)
+Èeška	L1	ta			Czech (woman)
+èí	L6				whose
+èíst	L4	imp		*ète	to read
+èíšník	L3	ten	a		waiter
+èokoláda	L2	ta	y		chocolate
+ètvrtek	L4	ten	a		Thursday
+daleko	L9				"long way away, far"
+"dámskı,-á,-é"	L10				ladies'
+dát	L6	perf		*dá	to give
+dát si	L3	perf		*dá si	to have (food)
+dávat	L8	imp		..á	to give
+dcera	L6	ta	y		daughter
+dìdeèek	L6	ten	a		grandfather
+deka	L3	ta	pl.		ten grammes
+dìlat	L4	imp		…á	"to do, make"
+den	L1	ten	e		day
+déš	L7	ten	ì		rain
+dìti	L6	ty	pl.		children
+disketa	L6	ta	y		diskette
+diskotéka	L4	ta	y		disco
+diskutovat	L4	imp		…uje	to discuss
+divadlo	L4	to	a		theatre
+dívat se	L4	imp		…á	to watch
+"dlouhı,-á,-é"	L6				"long, tall"
+dnes	L4				today
+do	L5				"to, into"
+"dobrı,-á,-é"	L1				good
+dobøe	L1				well
+doktorka	L1	ta	y		doctor (female)
+doleva	L5				left (in the direction of)
+doma	L4				at home
+domluvit si	L10	perf		…í se	to make a date for …
+domù	L4				home (in the direction of)
+dopis	L4	ten	u		letter
+doprava	L5				rigt (in the direction of)
+doufat	L8	imp		…á	to hope
+dovolená	L8				vacation
+duben	L8	ten	a		April
+dveøe	L4	ty	pl.		door
+dvojèata	L6	ta	pl.		twins
+díny	L10	ty	pl.		jeans
+dus	L2	ten	u		juice (fruit only)
+esej	L9	ta	e		essay
+"fazolovı,-á,-é"	L3				bean (as in bean soup)
+festival	L8	ten	u		festival
+"filmovı,-á,-é"	L8				movie (as in movie festival)
+fotograf(ka)	L6		a		photographer
+fyzika	L4	ta	y		physics
+galerie	L4	ta	e		gallery
+guláš	L3	ten	e		goulash
+hedvábí	L10	to	í		silk
+herec	L6	ten	e		actor
+"hezkı,-á,-é"	L2				"pretty, nice"
+hlad	L4	ten	u		hunger
+hlava	L9	ta	y		head
+"hnìdı,-á,-é"	L10				brown
+horeèka	L9	ta	y		fever
+horko	L7				hot weather
+hory	L4	ty	pl.		mountains
+hospoda	L4	ta	y		pub
+hotel	L4	ten	u		hotel
+hotová jídla	L3				main course
+hotovı	L4				"finished, ready"
+houba	L7	ta	y		mushroom
+houska	L2	ta	y		bread-roll
+"hovìzí,-í,-í"	L3				beef (as in beef soup)
+hranolky	L3	ty	pl.		French fries
+hrát	L4	imp		*hraje	to play
+hruška	L2	ta	y		pear
+chalupa	L7	ta	y		cottage
+chata	L7	ta	y		weekend house
+chemie	L4	ta	e		chemistry
+chladno	L7				cold
+chleba	L2	ten	a		bread
+chodit	L4	imp		…í	"to go, walk"
+chtít	L3	imp		*chce	to want
+chutnat	L3	imp		…á	to like (the taste the food)
+chvíle	L4	ta	e		"while, moment"
+"chytrı,-á,-é"	L2				"clever, smart"
+inenır(ka)	L1	ten	a		engineer
+italština	L8	ta	y		Italian
+jablko	L2	to	a		apple
+"jakı,-á,-é"	L2				"what, kind of"
+jaro	L7	to	a		spring
+jasno	L7				clear weather
+ještì (nìco)	L3				anything else
+jet 	L4	imp		*jede	"to go, ride (by vehicle)"
+jet stopem	L8	imp		*jede	to hitchhike
+jezdit	L4	imp		…í	"to go, ride (habitually)"
+jídelní lístek	L3				menu
+jídlo	L3	to	a		food
+jindy	L7				another time
+jíst	L4	imp		*jí	to eat
+jít	L4	imp		*jde	"to go, walk"
+jízdní øád	L5				"train, bus timetable"
+jogurt	L2	ten	u		yoghurt
+"k, ke"	L6				"to, toward"
+kabát	L7	ten	u		coat
+kabinka	L10	ta	y		booth
+kalhoty	L10	ty	pl.		pants
+kam	L5				where to
+kamarád	L2	ten	a		friend
+kameraman(ka)	L6		a		cameraman
+kanceláø	L4	ta	e		office
+karotka	L2	ta	y		carrot
+kašlat	L9	imp		*kašle	to cough
+káva	L2	ta	y		coffee
+kavárna	L4	ta	y		coffee-house
+"kadı,-á,-é"	L2				every
+kde	L5				where
+kdo	L1				who
+kdy	L5				when
+kemp	L8	ten	u		camp
+kino	L4	to	a		movie
+knedlík	L3	ten	u		dumpling
+knihovna	L8	ta	y		library
+kolej	L4	ta	e		dormitory
+kolik	L3				how much
+konèit	L9	imp		…í	to finish
+konzultace	L9	ta	e		"consultation,tuition"
+koruna	L3	ta	y		crown
+košile	L10	ta	e		shirt
+koupalištì	L7	to	ì		open air pool
+koupat se	L7	imp		*koupe se	to bathe
+koupit (si)	L4	perf		…í (si)	to buy
+kouøit	L4	imp		…í	to smoke
+kousek	L5	ten	u		piece (small)
+krabice	L5	ta	e		box
+kravata	L10	ta	y		neck-tie
+krk	L9	ten	u		neck
+køíovka	L3	ta	y		crossword puzzle
+kupovat	L5	imp		…uje	to buy
+kuøe	L2	to	ete		chicken
+kus	L5	ten	u		piece
+kùe	L10	ta	e		leather
+kvìten	L8	ten	a		May
+láhev	L5	ta	e		bottle
+leden	L8	ten	a		January
+lehnout	L9	perf		*lehne	to lie down
+lékárna	L5	ta	y		pharmacy
+len	L10	ten	u		linen
+les	L7	ten	a		"wood, forest"
+léto	L7	to	a		summer
+letos	L8				this year
+"levnı,-á,-é"	L2				cheap
+leet	L9	imp		…í	to lie down
+líbit se	L3	imp		…í	to like
+lidé	L7	ti	pl.		people
+limonáda	L3	ta	y		flavored soda-water
+lístek	L5	ten	u		ticket
+listopad	L8	ten	u		November
+literatura	L4	ta	y		literature
+lyovat	L4	imp		…uje	to ski
+"malı,-á,-é"	L5				small
+maminka	L6	ta	y		"mother, mum"
+manaer(ka)	L6		a		manager
+manel	L6	ten	a		husband
+manelé	L6	ti	pl.		couple
+manelka	L6	ta	y		wife
+máslo	L2	to	a		butter
+meloun	L2	ten	a		water melon
+mìsto	L4	to	a		town
+"mezinárodní,-í,-í"	L8				international
+minerálka	L3	ta	y		mineral water
+mít	L3	imp		*má	to have
+mít rád	L3	imp		*má rád	to like
+mléko	L2	to	a		milk
+mlha	L7	ta	y		fog
+mluvit	L4	imp		…í	to speak
+moc	L7				"much, very much"
+moct	L4	imp		*mùe	can
+modrá	L10				blue
+Morava	L4	ta	y		Moravia
+moná	L9				"perhaps, maybe"
+mrkev	L2	ta	e		carrot
+mrznout	L7	imp		*mrzne	to freeze
+muset	L4	imp		…í	must
+muzeum	L5	to	a		museum
+mu	L1	ten	e		man
+myslet	L4	imp		…í	to think
+mıt se	L7	imp		*myje se	to wash
+na	L4				"on, in"
+nádraí	L4	to	í		station 
+nakupovat	L5	imp		…uje	to be shopping
+nálada	L4	ta	y		mood
+nalevo	L5				on the left
+námìstí	L4	to	í		square
+napít se	L9	perf		*napije se	"to have a drink, drink"
+nápoje	L3	ty	pl.		drinks
+napravo	L5				on the right
+napsat	L4	perf		*napíše	to write
+narozeniny	L8	ty	pl.		birthday
+nashledanou	L1				good bye
+nasnídat se	L9	perf		…á se	to have breakfast
+nastydnout	L9	perf		*nastydne se	to catch cold
+nauèit se	L9	perf		…í se	to learn
+návštìva	L7	ta	y		visit
+navštívit	L4	perf		…í	to visit
+ne	L1				no
+nìco 	L4				something
+nedìle	L4	ta	e		Sunday
+"nìjakı,-á,-é"	L10				"some, a, any"
+nejdøív	L9				first of all
+nemocnice	L4	ta	e		hospital
+"nemocnı,-á,-é"	L6				"ill, sick"
+nic	L4				nothing
+noc	L1	ta			night
+noha	L9	ta	y		leg
+novináø(ka)	L6		e		journalist
+noviny	L4	ty	pl.		newspaper
+o	L4				about
+obèas	L4				"sometimes, from time to time"
+obìdvat	L4	imp		…á 	to have lunch
+obchod	L4	ten	u		shop
+objednat	L10	perf		…á	"to order, book, reserve"
+obleèení	L9	to	í		clothing
+"oblíbenı,-á,-é"	L3				favourite
+obloha	L3	ta	y		garnish
+obuv	L5	ta	i		"shoes, footwear"
+obvykle	L4				usually
+od	L5				"from, since"
+odjídìt	L9	imp		…í	to go away
+odkdy	L5				since when
+odkud	L5				from where
+odpoèívat	L4	imp		…á	"to rest, relax"
+odpovìï	L10	ta	i		answer
+odpovìdìt	L9	perf		*odpoví	to answer
+okurka	L2	ta	y		cucumber
+omáèka	L3	ta	y		"sauce, gravy"
+omlouvat se	L9	imp		…á	to apologize
+opakovat	L7	imp		…uje	"to repeat, do again"
+opera	L4	ta	y		opera
+osprchovat se	L9	imp		…uje	to shower
+otevøít	L4	perf		*otevøe	to open
+"ovocnı,-á,-é"	L5				fruit (as in fruit cake)
+palaèinka	L3	ta	y		pancake
+pan	L1	ten	a		Mr.
+paní	L1	ta	í		Mrs.
+"pánskı,-á,-é"	L10				men's
+paprika	L2	ta	y		pepper (green)
+párek	L3	ten	u		sausage
+park	L4	ten	u		park
+parkovat	L4	imp		…uje	to park
+pátek	L4	ten	u		Friday
+penzion	L4	ten	u		bed and breakfast (family hotel)
+pero	L6	to	a		pen
+pìšky	L5				on foot
+pít	L4	imp		*pije	to drink
+pití	L3	to	í		drinks
+pivo	L2	to	a		beer
+plánovat	L8	imp		…uje	to plan
+platit	L9	imp		…í	to pay
+plavat	L4	imp		*plave	to swim
+plavky	L10	ty	pl.		swimsuit
+plechovka	L5	ta	y		can
+poèasí	L7	to	í		weather
+poèkat	L9	perf		…á	to wait
+pod	L7				"below, under"
+podívat se	L9	perf		…á	to have a look
+podzim	L7	ten	u		"fall, autumn"
+pokladna	L10	ta	y		"cash desk, box office"
+polévka	L3	ta	y		soup
+polojasno	L7				partly cloudy
+polyester	L10	ten	u		polyester
+pomeranè	L2	ten	e		orange
+pondìlí	L4	to	í		Monday
+ponoky	L10	ty	pl.		socks
+poradce	L8	ten	e		"consultant, advisor"
+poslat	L10	perf		*pošle	"to send, post"
+"poslední,-í,-í"	L5				last
+poslouchat	L4	imp		…á	to listen
+postel	L9	ta	e		bed
+pošta	L4	ta	y		post office
+potkat	L9	perf		…á	to happen to meet
+potom	L4				"then, after"
+potøebovat	L3	imp		…uje	to need
+pozdì	L4				late
+pozvat	L10	perf		*pozve	to invite
+práce	L4	ta	e		work
+pracovat	L4	imp		…uje	to work
+prarodièe	L6	ti	pl.		grandparents
+právník	L6	ten	a		lawyer
+pro	L4				for
+prodat	L9	perf		…á	to sell
+prodavaè	L3	ten	e		shop assistant
+producent(ka)	L6		a		producer
+produkovat	L6			…uje	produce
+profesor	L1	ten	a		Professor
+procházka	L4	ta	y		walk
+prosinec	L8	ten	e		December
+proto	L4				therefore
+protoe	L4				because
+pršet	L7	imp		*prší	to rain
+prùjem	L9	ten	u		diarrhoea
+prùvodce	L8	ten	e		guide
+pøát	L7	imp		*pøeje	to wish
+pøeèíst	L9	perf		*pøeète	to read (through)
+pøed	L8				in front of
+pøednáška	L4	ta	y		"lecture, course"
+pøednášky	L7	ty	pl.		"lectures, class"
+pøekvapit	L9	perf		…í	to surprise
+pøemıšlet	L4	imp		…í	to think
+pøicházet	L10	imp		…í	to come
+pøijet	L7	perf		*pøijede	to arrive
+pøijít	L4	perf		*pøijde	to come
+pøipravovat se	L4	imp		…uje se	to practice
+pøítel	L6	ten	e		friend
+pøízemí	L4	to	í		ground floor (US 1st floor)
+psát	L4	imp		*píše	to write
+pùlka	L5	ta	y		half
+punèocháèe	L10	ty	pl.		panty-hose
+rádio	L4	to	a		radio
+rajèe	L2	to	ete		tomato
+ráno	L1	to	a		morning
+restaurace	L2	ta	e		restaurant
+roèní období	L7	to			season
+rodièe	L6	ti	pl.		parents
+rodina	L6	ta	y		family
+rohlík	L2	ten	u		bread-roll
+rovnì	L5				straight (in the direction)
+rozumìt	L4	imp		…í	to understand
+ruka	L9	ta	y		"arm, hand"
+"rùznı,-á,-á"	L7				"different, various"
+ryba	L2	ta	y		fish
+"rybí,-í,-í"	L3				fish (as in fish steak)
+rybník	L7	ten	u		fish-pond
+rıma	L9	ta	y		cold
+rıe	L3	ta	e		rice
+øeditel(ka)	L4	ten	e		director
+øíct	L6	perf		*øekne	"to say, tell"
+øíjen	L8	ten	a		October
+øíkat	L4	imp		…á	"to say, tell"
+øízek	L3	ten	u		schnitzel
+sako	L10	to	a		"jacket, suit-coat"
+salám	L2	ten	u		salami
+salát	L2	ten	u		"lettuce, salad"
+samozøejmì	L10				of course
+sbírat	L7	imp		…á	"pick, collect"
+sekretáøka	L7	ta	y		secretary
+sendviè	L8	ten	e		sandwich
+sestra	L6	ta	y		sister
+setkat se	L8	perf		…á se	to meet
+schùzka	L4	ta	y		"meeting, appointment"
+sklenice	L5	ta	e		glass
+skonèit	L9	perf		…í	to finish
+skoro	L7				almost
+sleva	L10	ta	y		reduction
+slovník	L6	ten	u		dictionary
+slovo	L6	to	a		word
+slunce	L7	to	e		sun
+slušet	L10	imp		…í	"to suit, become (as in the hat suits/becomes you)"
+slyšet	L10	imp		…í	to hear
+smát se	L4	imp		*smìjì se	to laugh
+smìt	L4	imp		*smí	may
+snad	L9				"perhaps, maybe"
+snìit	L7	imp		…í	to snow
+snídat	L4	imp		…á	to have breakfast
+sníh	L4	ten	u		snow
+sníst	L10	perf		*sní	to eat (and finish eating)
+sobota	L4	ta	y		Saturday
+souhlasit	L8	imp		…í	to agree
+spát	L4	imp		*spí	to sleep
+spisovatel(ka)	L6		e		writer
+"spokojenı,-á,-é"	L9				to be satisfied
+spoleènì	L8				together
+spolu	L6				"together, in company with"
+spolupracovat	L8	imp		…uje	"to cooperate, collaborate"
+sportovat	L10	imp		…uje	to do sports
+srpen	L8	ten	a		August
+"starı,-á,-é"	L2				old
+stát	L3	imp		*stojí	"to cost, stand"
+strávit	L8	perf		…í	to spend (time not money)
+støeda	L4	ta	y		Wednesday
+student	L1	ten	a		student (male)
+studentka	L1	ta	y		student (female)
+studovat	L4	imp		…uje	to study
+stùl	L4	ten	u		table
+stupeò	L7	ten	ì		degree
+suknì	L10	ta	ì		skirt
+svetr	L4	ten	u		"sweater, pullover"
+svítit	L7	imp		…í	to shine
+"svobodnı,-á"	L6				single (I.e. not married)
+syn	L6	ten	a		son
+sır	L2	ten	a		cheese
+šálek	L5	ten	u		cup
+šaty	L10	ty	pl.		dress
+"šedı,-á,-é"	L10				grey
+školení	L9	to	í		training
+šlehaèka	L3	ta	y		whipped cream
+šortky	L10	ty	pl.		shorts
+špagety	L3	ty	pl.		spaghetti
+šunka	L3	ta	y		ham
+ta	L2				"the, this, that"
+taky	L4				"also, too"
+talíø	L5	ten	e		plate
+tamhle	L5				over there
+tancovat	L9	imp		…uje	to dance
+tatínek	L6	ten	a		father
+telefonovat	L4	imp		…uje	to phone
+televize	L4	ta	e		television
+témìø	L7				almost
+ten	L1				"the, this, that"
+teplo	L7	to	a		warm
+teplota	L9	ta	y		temperature
+to	L1				"the, this, that"
+tramvaj	L5	ta	e		tram
+trièko	L10	to	a		T-shirt
+trochu	L5				a little
+tuka	L6	ta	y		pencil
+u	L5				"at, near, by"
+úèet	L6	ten	u		bill
+uèit se	L4	imp		…í se	"to learn, study"
+uèitelka	L1	ta	y		teacher
+ukázat	L9	perf		*ukáe	to show
+uklidit	L9	perf		…í	to clean
+úkol	L4	ten	u		"task, homework, assignment"
+ulice	L5	ta	e		street
+umìní	L6	to	í		art
+umìt	L10	imp		…í	to be able to
+umıt	L9	perf		*umyje se	to wash
+únor	L8	ten	a		February
+uprostøed	L6				"in the centre, middle"
+úterı	L4	to	ı		Tuesday
+uvaøit	L9	perf		…í	to cook
+uvidìt	L8	perf		…í	to see
+"uzenı,-á,-é"	L5				smoked
+v	L4				"in, at"
+vaøit	L4	imp		…í	to cook
+vèas	L7				on time
+vèera	L4				yesterday
+vdaná	L6				married
+vìc	L3	ta	i		thing
+veèer	L1	ten	a		evening
+veèeøe	L4	ta	e		dinner
+veèeøet	L4	imp		…í	to have dinner
+vìdìt	L7	imp		*ví	to know
+vedle	L5				"next to, beside"
+velikost	L10	ta	i		size
+venkov	L7	te	a		countryside
+"vepøovı,-á,-é"	L3				pork
+vìøit	L6	imp		…í	to believe
+vìta	L6	ta	y		sentence
+veterináø	L6	te	e		veterinarian
+vìtšinou	L7				mostly
+víc	L7				more
+Vídeò	L4	ta	ì		Vienna
+vidìt	L4	imp		…í	to see
+víkend	L4	te	u		weekend
+víno	L2	to	a		wine
+vitamín	L9	te	u		vitamins
+vlak	L4	te	u		train
+vlna	L10	ta	y		wool
+"vlnìnı,-á,-é"	L10				woollen
+voda	L2	ta	y		water
+volat	L8	imp		…á	"to call, shout"
+vpøedu	L5				in front
+vracet se	L7	imp		…í se	to come back
+vrátit (se)	L4	perf		…í se	"to come back, return"
+vstát	L9	perf		*vstane	"to get up, stand up"
+vstávat	L4	imp		…á	to get up
+všechno	L3				"all, everything"
+Vy	L1				you (polite)
+vybrat si	L9	perf		*vybere si	to choose
+vılet	L4	ten	u		trip
+vypít	L9	perf		*vypije	to drink up
+vypracovat	L9	perf		…uje	"to create, come up with"
+vıstava	L4	ta	y		exhibition
+vysvìtlit	L4	perf		…í	to explain
+vzadu	L5				"behind, back"
+vzít si	L10	perf		*vezme si	to take
+za	L4				in
+zaèínat	L9	imp		…á	"to begin, start"
+zaèít	L9	perf		*zaène	"to begin, start"
+záda	L9	ta	pl.		back
+zahnout	L5	perf		*zahne	to turn
+zahrada	L7	ta	y		garden
+zahranièí	L7	to	í		abroad
+zahrát	L9	perf		*zahraje	to play
+"zajímavı,-á,-é"	L8				interesting
+zákazník	L3	ten	a		customer
+zaplavat si	L9	perf		*zaplave si	to swim
+zapomenout	L4	perf		*zapomene	to forget
+záøí	L8	to	í		September
+zaspat	L9	perf		*zaspí	to over sleep
+zastavit	L4	perf		…í	tp stop
+zastávka	L5	ta	y		stop
+zataeno	L7				cloudy
+zatím	L10				meanwhile
+zavolat	L6	perf		…á	to call
+"zelenı,-á,-é"	L2				green
+zelí	L3	to	í		cabbage
+zeptat se	L4	perf		…á se	to ask
+zima	L7	ta	y		"winter, cold"
+zítra	L5				tomorrow
+"zkaenı,-á,-é"	L2				spoiled
+zkoušet	L10	imp		…í	"to try on, examine"
+zkouška	L8	ta	y		"test, exam"
+zkusit	L10	perf		…í	to try on
+zmrzlina	L3	ta	y		ice cream
+známka	L3	ta	y		stamp
+zpìvák(-èka)	L6		a		singer
+zpívat	L6	imp		…á	to sing
+zubaø(ka)	L6		e		dentist
+zùstat	L10	perf		*zùstane	to stay
+zvíøata	L6	ta	pl.		animals
+e	L4				that
+ena	L1	ta	y		woman
+enatı	L6				married
+idle	L4	ta	e		chair
+"lutı,-á, -é"	L2				yellow
