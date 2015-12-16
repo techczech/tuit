@@ -1,0 +1,10 @@
+<Files ~ "\.inc$">
+  Order deny,allow
+  Deny from all
+</Files>
+php_flag magic_quotes_gpc off
+php_value include_path .:tuit
+AuthName "Administration"
+AuthType Basic
+AuthUserFile /www/doc/www.bohemica.com/www/adminht/.htpasswd
+Require user admin

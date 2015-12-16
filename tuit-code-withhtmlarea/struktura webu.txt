@@ -1,0 +1,70 @@
+Struktura webu (obsahova Ë·st)
+Sekce
+	Podsekce
+			Popiska (Na seznamu sekci)
+			Dlouhy popis (Pravy box)
+			Clanky 
+				Nazev
+				Autor
+				Datum
+				Nahled/Anotace
+				Text
+				Pocet ctenaru
+				Pocet diskusnich prispevku
+				Diskuse
+		Titulni stranka
+			Stredni sloupec (nalevo i napravo)
+				Odkazy na podsekce (Oranzove hlavicky - vic nez 8 cislovat)
+					Kratkou popisku
+					Info o nove pridanem (pokud neco novejsiho nez 1 tyden)
+				Vybrany clanky + nahled (ciselna priorita)
+				Kompletni archiv clanku (odkaz)
+				Textovy box
+					Hlavicka
+					Obsah
+			Pravy sloupec (mozna volba pro zobrazeni ve strednim sloupci)
+ 				Popiska sekce (pro kterou je titulni strana - Modra hlavicka)
+				Obrazek (Modra hlavicka)
+				X of the day (Modra hlavicka)
+ 			Levy sloupec
+				Seznam podsekci
+				Link zpatky
+				Link na archiv
+				Link na kontakt
+ 		DalöÌ podsekce
+ 		Banner
+		Kategorie
+		Linky
+			URL
+			Jmeno
+			Popis
+	Seznam linku
+	Seznam lidi/ucitelu
+		Kategorie
+			Podkategorie
+				Polozky
+					Jmeno
+					Misto
+					Kontakt
+					Info
+
+Struktura (Shrnuti)
+	Levy sloupec (Linky)
+	Stredni sloupec (Informace - napr. titulni stranka)
+		Pravy box
+		Levy box
+	Pravy sloupec (Popisky)
+
+Paticka
+Hlavicka
+
+Struktura webu (jazykova Ë·st - vazba na TuiT)
+Sekce
+	Podsekce
+			Titul
+			Popis (kratky)
+			Popis (dlouhy)
+		Titulni stranka
+			Stredni sloupec
+				Seznam podsekci (nazev, popis)
+				

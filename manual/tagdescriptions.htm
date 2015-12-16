@@ -1,0 +1,136 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1250">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>Shorthand tag</title>
+</head>
+
+<body>
+
+<table border="0" width="100%">
+  <tr>
+    <td valign="top" bgcolor="#C0C0C0"><b>Shorthand tag&nbsp;</b></td>
+    <td valign="top" bgcolor="#C0C0C0"><b>Full tag</b></td>
+    <td valign="top" bgcolor="#C0C0C0"><b>Description<br>
+      </b><a href="http://www.bohemica.com/tuit/index.php?exercise=1956" target="_blank">Click
+      here to see examples of these tags at work</a></td>
+  </tr>
+  <tr>
+    <td valign="top">[]</td>
+    <td valign="top">        [$1, text 20]</td>
+    <td valign="top" bgcolor="#F4F4F4">Textfield 20 characters long, worth 1
+      point: <input class="boxedfield_ex" maxLength="20" name="answers[0]" size="20"></td>
+  </tr>
+  <tr>
+    <td valign="top">[word]</td>
+    <td valign="top">         [$1, text 4:word]</td>
+    <td valign="top" bgcolor="#F4F4F4">Textfield 4 characters long, worth 1
+      point, correct answer: <i>word</i></td>
+  </tr>
+  <tr>
+    <td valign="top">[$3:word]&nbsp;</td>
+    <td valign="top">                                    [$3, text 4:word]</td>
+    <td valign="top" bgcolor="#F4F4F4">Textfield 4 characters long, worth 3
+      points, correct answer: <i>word</i></td>
+  </tr>
+  <tr>
+    <td valign="top">[5:vul]</td>
+    <td valign="top">                                     [$1, text 5:vul]</td>
+    <td valign="top" bgcolor="#F4F4F4">Textfield 5 characters long, worth 1
+      point, correct answer: <i>word</i></td>
+  </tr>
+  <tr>
+    <td valign="top">[$5,10]</td>
+    <td valign="top">                                     [$5, text 10]</td>
+    <td valign="top" bgcolor="#F4F4F4">Empty textfield, 10 characters long,
+      worth 5 points</td>
+  </tr>
+  <tr>
+    <td valign="top">[60,5]</td>
+    <td valign="top">                                      [$1, textarea 60,5]</td>
+    <td valign="top" bgcolor="#F4F4F4">Textbox for entering essay length answers,
+      60 characters wide and 5 lines tall. Worth 1 point.</td>
+  </tr>
+  <tr>
+    <td valign="top">[$50,60,10]</td>
+    <td valign="top">[$50, textarea 60,10]</td>
+    <td valign="top" bgcolor="#F4F4F4">Textbox for entering essay length answers,
+      60 characters wide and 10 lines tall. Worth 50 points.</td>
+  </tr>
+  <tr>
+    <td valign="top">[/na/nad/(pod]</td>
+    <td valign="top">                              [$1, select: /na/nad/(pod]</td>
+    <td valign="top" bgcolor="#F4F4F4">Pull down menu. Correct answer <i>pod</i>
+      is worth 1 point.<select class="selectbox_ex" name="answers[3]" size="1">
+        <option value="0" selected>
+        <option value="1">na
+        <option value="2">nad
+        <option value="3">pod</option>
+      </select>&nbsp;</td>
+  </tr>
+  <tr>
+    <td valign="top">[$3:/na/nad/(pod]</td>
+    <td valign="top">[$3, select: /na/nad/(pod]</td>
+    <td valign="top" bgcolor="#F4F4F4">Pull down menu. Correct answer <i>pod</i>
+      is worth 3 points.</td>
+  </tr>
+  <tr>
+    <td valign="top">[#]</td>
+    <td valign="top">                                         [$1/0, checkbox]</td>
+    <td valign="top" bgcolor="#F4F4F4">Checkbox for multiple choice. Worth 1
+      point is checked and 0 if not checked. More than one can be selected.</td>
+  </tr>
+  <tr>
+    <td valign="top">[* t1]&nbsp;</td>
+    <td valign="top">                                 [$0, radio t1]</td>
+    <td valign="top" bgcolor="#F4F4F4">Radio button for multiple choice. Only
+      one from many marked <i>t1</i> can be selected. The correct selection can
+      be assigned points.</td>
+  </tr>
+  <tr>
+    <td valign="top">[%Sample text]</td>
+    <td valign="top"></td>
+    <td valign="top" bgcolor="#F4F4F4">Displays <i>Sample text </i>in a
+      textfield.</td>
+  </tr>
+  <tr>
+    <td valign="top" colspan="2">[&quot;Hint:This is a hint]</td>
+    <td valign="top" bgcolor="#F4F4F4">Clicking the word <i>Hint</i> pops up
+      message saying <i>This is a hint</i></td>
+  </tr>
+  <tr>
+    <td valign="top">[^malý]&nbsp;</td>
+    <td valign="top"></td>
+    <td valign="top" bgcolor="#F4F4F4">Clicking the word <i>malý </i>displays
+      dictionary entry for that word in a new window.</td>
+  </tr>
+  <tr>
+    <td valign="top">[^velkého:velký]</td>
+    <td valign="top"></td>
+    <td valign="top" bgcolor="#F4F4F4">Clicking the word <i>velkého </i>displays
+      dictionary entry for the <i>velký </i>in a new window.</td>
+  </tr>
+  <tr>
+    <td valign="top">[{answer] </td>
+    <td valign="top"></td>
+    <td valign="top" bgcolor="#F4F4F4">Displays a text field where the correct
+      answer is the word <i>answer</i>. It will immediately self correct of
+      display a hint.</td>
+  </tr>
+  <tr>
+    <td valign="top">[{name=t1]</td>
+    <td valign="top"></td>
+    <td valign="top" bgcolor="#F4F4F4">Textbox in which a hint will be displayed.</td>
+  </tr>
+  <tr>
+    <td valign="top" colspan="2">[{target=t1:This is a hint!] </td>
+    <td valign="top" bgcolor="#F4F4F4">The words <i>This is a hint</i> will be
+      displayed in textbox marked <i>t1</i> when [?] is clicked.</td>
+  </tr>
+</table>
+
+</body>
+
+</html>
